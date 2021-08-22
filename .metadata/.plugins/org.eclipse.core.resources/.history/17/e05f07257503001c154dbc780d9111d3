@@ -1,0 +1,10 @@
+package model;
+
+import java.time.LocalTime;
+
+public class ModalidadeServico {
+	private int codModalidade;
+	private String nome;
+	private Money precoAtual;
+	private LocalTime tempo;
+}

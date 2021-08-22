@@ -1,0 +1,8 @@
+package model;
+
+public abstract class Cliente {
+	protected int codCliente;
+	protected Endereco enderecoCliente;
+	protected Telefone telefoneCliente;
+	protected ArrayList<Pedido>
+}

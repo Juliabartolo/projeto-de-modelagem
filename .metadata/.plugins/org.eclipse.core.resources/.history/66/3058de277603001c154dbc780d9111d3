@@ -1,0 +1,7 @@
+package model;
+
+public class ModalidadePedido {
+	private ModalidadeServico modalidade;
+	private float metragem;
+	private Money precoUnitario;
+}

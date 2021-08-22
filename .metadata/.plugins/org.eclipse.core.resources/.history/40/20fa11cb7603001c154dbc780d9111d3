@@ -1,0 +1,8 @@
+package model;
+
+public class Funcionario {
+	private int codMatricula;
+	private String nome;
+	private Telefone telefone;
+	private CPF cpf;
+}

@@ -1,0 +1,7 @@
+package model;
+
+public class ModalidadeServico {
+	private int codModalidade;
+	private String nome;
+	private Money
+}
