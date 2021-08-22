@@ -8,6 +8,6 @@ public class ModalidadePedido {
 	
 	//Metodos
 	public Money obterSubtotal() {
-		return metragem * precoMetro;
+		return this.metragem * this.precoMetro;
 	}
 }
